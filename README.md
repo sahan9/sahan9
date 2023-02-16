@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahan9" alt="sahan9" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/sahanudayangak" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/sahanudayangak?logo=twitter&style=for-the-badge" alt="https://twitter.com/sahanudayangak" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sahanudayangak" target="blank"><img src="https://img.shields.io/twitter/follow/sahanudayangak?logo=twitter&style=for-the-badge" alt="sahanudayangak" /></a> </p>
 
 - Director of Velos [Fashionable Womens clothing](https://velosclothing.co.uk/)
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/sahanudayangak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sahanudayangak" height="30" width="40" /></a>
+<a href="https://twitter.com/sahanudayangak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahanudayangak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/sahankumara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sahankumara" height="30" width="40" /></a>
 <a href="https://fb.com/sahan.kumarasinghe.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahan.kumarasinghe.1" height="30" width="40" /></a>
 <a href="https://instagram.com/creativewebdesignersui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="creativewebdesignersui" height="30" width="40" /></a>
