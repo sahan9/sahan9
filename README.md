@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- Director of Velos [Fashinable clothing](https://velosclothing.co.uk/)
+- Director of Velos [Fashionable Womens clothing](https://velosclothing.co.uk/)
 
 - YouTube Content Creator **https://www.youtube.com/channel/UChuE8twTTQLzdQWqh52tJZQ**
 
